@@ -1,0 +1,1 @@
+This project is made in Visual Studio 2010. If you open TcpTest.csproj in Visual Studio 2010. Written in .Net 4, so you probably can't build it in linux-like operating systems.
